@@ -17,4 +17,4 @@ Newbing是微软旗下基于GPT-4的聊天人工智能，能够实时搜索网�
 - [:video_game: 游戏王1](游戏王1.md)
 - [:video_game: 游戏王2](游戏王2.md)
 - [:video_game: 玩原神玩的](玩原神玩的.md)
-- [:headphones: 耳机坏了看什么医生](耳机坏了看什么医生.md)
+- [:headphones: 耳机坏了看什么医生](耳机坏了应该去看什么医生.md)
