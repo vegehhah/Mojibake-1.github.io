@@ -4,4 +4,4 @@
 
 ![2](https://picx.zhimg.com/80/v2-52bbd8922df9cccea6872b3762a880bc_720w.webp?source=1940ef5c)
 
-# [返回](index.md)
+# [返回](../index.md)
