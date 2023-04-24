@@ -16,9 +16,9 @@
 - [&#x1F436; 狗狗学会打字](1/dog.md)
 - [&#x1F606; 整活组](1/fun.md)
 
-## &#x1F31E; [Newbing专场](2/newbing简介.md)
+## &#10148; [Newbing专场&#x1F31E;](2/newbing简介.md)
 
-## [工作学习实例-未完待续]()
+## 工作学习实例-未完待续
 <img src="https://pic2.imgdb.cn/item/6446ffba0d2dde57772ff153.jpg" alt="我的图片" width="50%" height="50%">
 
 ## &#x1F527; 工具：
