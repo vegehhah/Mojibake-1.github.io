@@ -9,7 +9,7 @@
 - [整活组](1/fun.md)
 - [假装自己是一条狗跟chatgpt聊天](1/dog.md)
 
-### [Newbing专场](2/Newbing简介.md)
+### [Newbing专场](2/newbing简介.md)
 
 ### 工具：
 
