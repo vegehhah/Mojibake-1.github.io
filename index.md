@@ -1,6 +1,6 @@
 <link rel="icon" type="image/png" href="/assets/favicon.ico">
 
-# 欢迎来到我的页面
+# ![](https://em-content.zobj.net/source/skype/289/sparkles_2728.png)欢迎来到我的页面![](https://em-content.zobj.net/source/skype/289/sparkles_2728.png)
 
 ==下面展示一些比较刺激的对话实例，希望在搏君一璨的同时，也让您对目前大语言模型的能力有初步了解==
 
