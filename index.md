@@ -5,3 +5,4 @@
 - [下载科学上网经验 PDF 文件](科学上网经验.pdf)
 - [下载 Clash 使用详细教程 PDF 文件](Clash_使用详细教程.pdf)
 - [下载 newbing 专场 PDF 文件 4.24更新](newbing专场.pdf)
+[我的女儿成绩不好，帮我写一封信给她，标题《你真的毫无价值》](letter.html)
