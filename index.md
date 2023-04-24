@@ -3,7 +3,7 @@
 # &#x1F31F;欢迎来到我的页面&#x1F31F;
 
 简单介绍一下：<img src="https://pic2.imgdb.cn/item/6446f87c0d2dde57772ca165.jpg" alt="我的图片" width="16" height="16"> 这是GPT4
-<img src="https://chat.openai.com/favicon.ico" alt="我的图片" width="16" height="16"> 这是GPT3.5
+<img src="https://pic2.imgdb.cn/item/64470e060d2dde5777398734.jpg" alt="我的图片" width="16" height="16"> 这是GPT3.5
 <img src="https://pic2.imgdb.cn/item/6446f7f40d2dde57772c6d59.jpg" alt="我的图片" width="16" height="16"> 这是Newbing
 
 &#x1F447;下面展示一些比较轻松愉快的对话实例，希望在博君一粲的同时，也让您对目前大语言模型的能力有初步了解&#x1F447;
