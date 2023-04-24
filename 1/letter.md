@@ -15,4 +15,4 @@
 
 ![3](https://pic2.imgdb.cn/item/6446991b0d2dde5777dd9053.jpg)
 
-# [返回](index.md)
+# [返回](../index.md)
