@@ -6,7 +6,7 @@
 <img src="https://chat.openai.com/favicon.ico" alt="我的图片" width="16" height="16"> 这是GPT3.5
 <img src="https://pic2.imgdb.cn/item/6446f7f40d2dde57772c6d59.jpg" alt="我的图片" width="16" height="16"> 这是Newbing
 
-&#x1F447;下面展示一些比较有趣的对话实例，希望在搏君一璨的同时，也让您对目前大语言模型的能力有初步了解&#x1F447;
+&#x1F447;下面展示一些比较轻松愉快的对话实例，希望在博君一粲的同时，也让您对目前大语言模型的能力有初步了解&#x1F447;
 
 ## &#x1F4AD; 也许看一些用户与ChatGPT的对话，你就能明白什么是ChatGPT了
 
@@ -20,7 +20,6 @@
 
 ## [工作学习实例-未完待续]()
 <img src="https://pic2.imgdb.cn/item/6446ffba0d2dde57772ff153.jpg" alt="我的图片" width="50%" height="50%">
-
 
 ## &#x1F527; 工具：
 
