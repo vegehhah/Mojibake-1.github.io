@@ -6,4 +6,4 @@
 
 ![1](https://pic2.imgdb.cn/item/64469de80d2dde5777e3b570.jpg)
 
-# [返回](index.md)
+# [返回](../index.md)
