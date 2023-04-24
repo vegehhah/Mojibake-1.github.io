@@ -1,6 +1,8 @@
 <link rel="icon" type="image/png" href="/assets/favicon.ico">
 
-# ![](https://em-content.zobj.net/source/skype/289/sparkles_2728.png)欢迎来到我的页面![](https://em-content.zobj.net/source/skype/289/sparkles_2728.png)
+# 欢迎来到我的页面
+
+<img src="https://th.bing.com/th?id=ODLS.0dc18014-3388-4dd0-af06-c7b7a1d04d8f&w=16&h=16&o=6&pid=1.2" alt="我的图片" width="32" height="32">
 
 ==下面展示一些比较刺激的对话实例，希望在搏君一璨的同时，也让您对目前大语言模型的能力有初步了解==
 
