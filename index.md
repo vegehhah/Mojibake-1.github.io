@@ -16,12 +16,11 @@
 - [&#x1F436; 狗狗学会打字](1/dog.md)
 - [&#x1F606; 整活组](1/fun.md)
 
-## &#10148; [Newbing专场&#x1F31E;](2/newbing简介.md)
+## &#10148; [Newbing专场&#x1F31E;点击进入](2/newbing简介.md)
 
 ## 工作学习实例-未完待续
 <img src="https://pic2.imgdb.cn/item/6446ffba0d2dde57772ff153.jpg" alt="我的图片" width="50%" height="50%">
 
-## &#x1F527; 工具：
+## &#x1F527; 工具教程-未完待续
 
-- [&#x1F53D; 下载科学上网经验 PDF 文件](科学上网经验.pdf)
-- [&#x1F53D; 下载 Clash 使用详细教程 PDF 文件](Clash_使用详细教程.pdf)
+
