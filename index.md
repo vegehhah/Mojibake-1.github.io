@@ -54,7 +54,7 @@
           <p>简单介绍一下：<img src="https://pic2.imgdb.cn/item/6446f87c0d2dde57772ca165.jpg" alt="我的图片" width="16" height="16"> 这是GPT4
     <img src="https://pic2.imgdb.cn/item/64470e060d2dde5777398734.jpg" alt="我的图片" width="16" height="16"> 这是GPT3.5
     <img src="https://pic2.imgdb.cn/item/6446f7f40d2dde57772c6d59.jpg" alt="我的图片" width="16" height="16"> 这是Newbing</p>
-    <img src="https://pic2.imgdb.cn/item/6449cba60d2dde57770520ab.png" alt="网站吉祥物" class="mascot">
+    <img src="https://pic2.imgdb.cn/item/6449cba60d2dde57770520ab.png" alt="网站吉祥物" width="40%" height="40%" class="mascot">
 </div>
 
 <div class="section">
